@@ -1,0 +1,19 @@
+{
+  "name": "openmct-dynamic-plans",
+  "version": "1.0.0",
+  "description": "Example working with non-persistable plans",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davetsay/openmct-dynamic-plans.git"
+  },
+  "author": "Dave Tsay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davetsay/openmct-dynamic-plans/issues"
+  },
+  "homepage": "https://github.com/davetsay/openmct-dynamic-plans#readme"
+}
